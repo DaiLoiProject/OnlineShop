@@ -1,0 +1,113 @@
+﻿
+@{
+    ViewBag.Title = "Shop";
+    Layout = "~/Views/Shared/Home.cshtml";
+}
+<link href="~/Content/page.style/Shop-StyleSheet.css" rel="stylesheet" />
+
+<section id="hero">
+    <h1>Products</h1>
+    <p>Home / Products</p>
+    <hr />
+</section>
+
+<!-- Container cho Sidebar và Product -->
+<div class="shop-container">
+    <!-- Sidebar -->
+    <aside id="sidebar">
+        <ul class="sidebar-menu">
+            <li class="sidebar-item">
+                <button class="sidebar-btn">Collections <i class="fa-solid fa-chevron-down"></i></button>
+                <ul class="submenu">
+                    <li><a href="#">T-Shirts</a></li>
+                    <li><a href="#">Hoodies</a></li>
+                    <li><a href="#">Accessories</a></li>
+                </ul>
+            </li>
+            <li class="sidebar-item">
+                <button class="sidebar-btn">Availability <i class="fa-solid fa-chevron-down"></i></button>
+                <ul class="submenu">
+                    <li><a href="#">In Stock</a></li>
+                    <li><a href="#">Out of Stock</a></li>
+                </ul>
+            </li>
+            <li class="sidebar-item">
+                <button class="sidebar-btn">Product <i class="fa-solid fa-chevron-down"></i></button>
+                <ul class="submenu">
+                    <li><a href="#">New Arrivals</a></li>
+                    <li><a href="#">Best Sellers</a></li>
+                </ul>
+            </li>
+        </ul>
+    </aside>
+
+    <!--product-->
+    <section id="product1">
+        <div class="pro-container">
+            <div class="pro">
+                <img src="~/Content/Img/Tshirt/ao-den-01-font.jpg">
+                <div class="des">
+                    <h5>Phoniex Patch In Heart T-Shirt Black</h5>
+                    <h4>395.000₫</h4>
+                </div>
+            </div>
+            <div class="pro">
+                <img src="~/Content/Img/Tshirt/ao-trang-01-font.jpg">
+                <div class="des">
+                    <h5>Phoniex Patch In Heart T-Shirt White</h5>
+                    <h4>395.000₫</h4>
+                </div>
+            </div>
+            <div class="pro">
+                <img src="~/Content/Img/Tshirt/binh-tan-font.jpg">
+                <div class="des">
+                    <h5>Phoniex Bình Tân Embroidered Polo Black</h5>
+                    <h4>395.000₫</h4>
+                </div>
+            </div>
+            <div class="pro">
+                <img src="~/Content/Img/Tshirt/black-polo-font.jpg">
+                <div class="des">
+                    <h5>Phoniex Rope Embroidery Knit Polo Black</h5>
+                    <h4>395.000₫</h4>
+                </div>
+            </div>
+            <div class="pro">
+                <img src="~/Content/Img/Tshirt/cream-polo-font.jpg">
+                <div class="des">
+                    <h5>Phoniex Embroidery Chain Knit Polo Cream</h5>
+                    <h4>395.000₫</h4>
+                </div>
+            </div>
+            <div class="pro">
+                <img src="~/Content/Img/Tshirt/Hanoi-font.jpg">
+                <div class="des">
+                    <h5>Hanoi Lover T-Shirt White</h5>
+                    <h4>395.000₫</h4>
+                </div>
+            </div>
+            <div class="pro">
+                <img src="~/Content/Img/Tshirt/messi-font.jpg">
+                <div class="des">
+                    <h5>DirtyCoins Striped Soccer Jersey Baby Blue White</h5>
+                    <h4>395.000₫</h4>
+                </div>
+            </div>
+            <div class="pro">
+                <img src="~/Content/Img/Tshirt/wild-west-font.jpg">
+                <div class="des">
+                    <h5>DirtyCoins Wild West Fade Relaxed Tan</h5>
+                    <h4>395.000₫</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+<!--Pagination-->
+<section id="pagination" class="section-p1">
+    <a href="#">1</a>
+    <a href="#">2</a>
+    <a href="#">3</a>
+    <a href="#"><i class="fa-solid fa-greater-than"></i></a>
+</section>

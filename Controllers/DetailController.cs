@@ -6,10 +6,10 @@ using System.Web.Mvc;
 
 namespace Webbanhang_nhom10.Controllers
 {
-    public class CollectionsController : Controller
+    public class DetailController : Controller
     {
-        // GET: Collections
-        public ActionResult Index()
+        // GET: Detail
+        public ActionResult DetailShop()
         {
             return View();
         }

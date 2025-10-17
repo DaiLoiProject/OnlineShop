@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|c:\\users\\dangd\\onedrive\\desktop\\webbanhang_nhom10\\webbanhang_nhom10\\views\\collections\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\collections\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\content\\page.style\\bestseller-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\bestseller-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\content\\page.style\\home-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\home-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\shared\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\shared\\_layoutbestseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutbestseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\content\\detail\\detail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\detail\\detail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|c:\\users\\dangd\\onedrive\\desktop\\webbanhang_nhom10\\webbanhang_nhom10\\views\\trangchu\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\trangchu\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\shared\\_layoutshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\detail\\detailshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\detail\\detailshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\trangchu\\collections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\trangchu\\collections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\controllers\\detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:controllers\\detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|c:\\users\\dangd\\onedrive\\desktop\\webbanhang_nhom10\\webbanhang_nhom10\\content\\page.style\\home-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\home-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\content\\page.style\\collection-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\collection-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\bestseller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\bestseller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\views\\shared\\_layoutcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layoutcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\content\\page.style\\bestseller-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\bestseller-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,140 +54,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "home-StyleSheet.css",
-              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\home-StyleSheet.css",
-              "RelativeDocumentMoniker": "Content\\page.style\\home-StyleSheet.css",
-              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\home-StyleSheet.css",
-              "RelativeToolTip": "Content\\page.style\\home-StyleSheet.css",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAH8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-04T08:48:02.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Collections\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Collections\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Collections\\Index.cshtml",
-              "RelativeToolTip": "Views\\Collections\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\TrangChu\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Views\\TrangChu\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\TrangChu\\Shop.cshtml",
+              "RelativeToolTip": "Views\\TrangChu\\Shop.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T14:04:58.098Z",
+              "WhenOpened": "2025-10-17T00:17:58.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "bestseller-stylesheet.css",
-              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\bestseller-stylesheet.css",
-              "RelativeDocumentMoniker": "Content\\page.style\\bestseller-stylesheet.css",
-              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\bestseller-stylesheet.css",
-              "RelativeToolTip": "Content\\page.style\\bestseller-stylesheet.css",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAHUAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Detail.css",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\Detail\\Detail.css",
+              "RelativeDocumentMoniker": "Content\\Detail\\Detail.css",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\Detail\\Detail.css",
+              "RelativeToolTip": "Content\\Detail\\Detail.css",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAOYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-02T00:33:11.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_LayoutBestseller.cshtml",
-              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\_LayoutBestseller.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutBestseller.cshtml",
-              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\_LayoutBestseller.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutBestseller.cshtml",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAAKEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-02T00:26:35.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-02T00:26:34.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Bestseller\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Bestseller\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Bestseller\\Index.cshtml",
-              "RelativeToolTip": "Views\\Bestseller\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-02T00:24:27.398Z"
+              "WhenOpened": "2025-10-16T19:28:04.964Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "DetailShop.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Detail\\DetailShop.cshtml",
+              "RelativeDocumentMoniker": "Views\\Detail\\DetailShop.cshtml",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Detail\\DetailShop.cshtml",
+              "RelativeToolTip": "Views\\Detail\\DetailShop.cshtml",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAAAKsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-02T00:14:31.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_LayoutCollection.cshtml",
-              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\_LayoutCollection.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutCollection.cshtml",
-              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\_LayoutCollection.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutCollection.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T13:55:13.3Z"
+              "WhenOpened": "2025-10-16T19:25:39.677Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "DetailController.cs",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Controllers\\DetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DetailController.cs",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Controllers\\DetailController.cs",
+              "RelativeToolTip": "Controllers\\DetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:25:10.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Collections.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\TrangChu\\Collections.cshtml",
+              "RelativeDocumentMoniker": "Views\\TrangChu\\Collections.cshtml",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\TrangChu\\Collections.cshtml",
+              "RelativeToolTip": "Views\\TrangChu\\Collections.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T19:08:32.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shop-StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\Shop-StyleSheet.css",
+              "RelativeDocumentMoniker": "Content\\page.style\\Shop-StyleSheet.css",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\Shop-StyleSheet.css",
+              "RelativeToolTip": "Content\\page.style\\Shop-StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-16T19:05:05.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Collection-Stylesheet.css",
               "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\Collection-Stylesheet.css",
               "RelativeDocumentMoniker": "Content\\page.style\\Collection-Stylesheet.css",
               "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\Collection-Stylesheet.css",
               "RelativeToolTip": "Content\\page.style\\Collection-Stylesheet.css",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-01T14:12:58.006Z"
+              "WhenOpened": "2025-10-16T19:04:29.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_LayoutShop.cshtml",
-              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\_LayoutShop.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutShop.cshtml",
-              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\_LayoutShop.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutShop.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADoAAAARAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "bestseller-stylesheet.css",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\bestseller-stylesheet.css",
+              "RelativeDocumentMoniker": "Content\\page.style\\bestseller-stylesheet.css",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\bestseller-stylesheet.css",
+              "RelativeToolTip": "Content\\page.style\\bestseller-stylesheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-16T19:04:25.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "home-StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\home-StyleSheet.css",
+              "RelativeDocumentMoniker": "Content\\page.style\\home-StyleSheet.css",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Content\\page.style\\home-StyleSheet.css",
+              "RelativeToolTip": "Content\\page.style\\home-StyleSheet.css",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-16T18:23:04.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\TrangChu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TrangChu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\TrangChu\\Index.cshtml",
+              "RelativeToolTip": "Views\\TrangChu\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-02T00:26:51.604Z"
+              "WhenOpened": "2025-10-16T18:15:11.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Home.cshtml",
               "DocumentMoniker": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\Home.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Home.cshtml",
               "ToolTip": "C:\\Users\\dangd\\OneDrive\\Desktop\\Webbanhang_Nhom10\\Webbanhang_nhom10\\Views\\Shared\\Home.cshtml",
               "RelativeToolTip": "Views\\Shared\\Home.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-02T00:26:59.303Z"
+              "WhenOpened": "2025-10-02T00:26:59.303Z",
+              "EditorCaption": ""
             }
           ]
         }

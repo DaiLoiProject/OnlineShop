@@ -13,5 +13,17 @@ namespace Webbanhang_nhom10.Controllers
         {
             return View();
         }
+        public ActionResult Shop()
+        {
+            return View();
+        }
+        public ActionResult Bestseller()
+        {
+            return View();
+        }
+        public ActionResult Collections()
+        {
+            return View();
+        }
     }
 }

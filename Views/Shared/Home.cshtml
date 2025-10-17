@@ -5,15 +5,9 @@
     <meta name="viewport" content="width=device-width" />
     <title>@ViewBag.Title</title>
     <link href="~/Content/page.style/home-StyleSheet.css" rel="stylesheet" />
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-
-
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Poppins', sans-serif;
-        }
-    </style>
 
 </head>
 <body>
@@ -52,25 +46,80 @@
         <div>
             <ul id="navbar">
                 <li><a href="@Url.Action("Index", "TrangChu")">HOME</a></li>
-                <li><a href="@Url.Action("Index", "Shop")">SHOP</a></li>
-                <li><a href="@Url.Action("Index", "Bestseller")">BESTSELLERS</a></li>
-                <li><a href="@Url.Action("Index", "Collections")">COLLECTIONS</a></li>
+                <li><a href="@Url.Action("Shop", "TrangChu")">SHOP</a></li>
+                <li><a href="@Url.Action("Bestseller", "TrangChu")">BESTSELLERS</a></li>
+                <li><a href="@Url.Action("Collections", "TrangChu")">COLLECTIONS</a></li>
             </ul>
         </div>
     </section>
 
     <!--Home_Page-->
 
-    <section id="home_page">
-        <img src="@Url.Content("~/Pictures/background1.jpg")" />
-        <img src="@Url.Content("~/Pictures/background2.jpg")" />
-        <img src="@Url.Content("~/Pictures/background3.jpg")" />
-        <img src="@Url.Content("~/Pictures/background4.jpg")" />
-        <img src="@Url.Content("~/Pictures/background5.jpg")" />
-        <img src="@Url.Content("~/Pictures/background6.jpg")" />
-    </section>
+
     <div>
         @RenderBody()
     </div>
+
+    <br />
+    <!--Footer-->
+    <div class="item-footer">
+        <i class="fa-solid fa-phone"></i> Hỗ Trợ / Mua hàng : 00112233
+    </div>
+
+    <div class="content-footer">
+
+        <!-- Cột trái -->
+        <div class="footer-left">
+            <h2>Hệ Thống Cửa Hàng</h2>
+            <p><i class="fa-solid fa-location-dot"></i> <b>Chi Nhánh Hồ Chí Minh</b></p>
+            <p><b>Phường Sài Gòn</b> - The New Playground, Tầng B1 Vincom Center Đồng Khởi, 72 Lê Thánh Tôn.</p>
+            <p><b>Phường An Lạc</b> - Tầng 1 TTTM Aeon Mall Bình Tân, số 1 đường số 17A.</p>
+            <p><b>Phường Long Bình</b> - Tầng 2 TTTM Vincom Mega Mall Grand Park.</p>
+            <p><b>Phường Hòa Hưng</b> - 561 Sư Vạn Hạnh.</p>
+            <p><b>Phường Cầu Ông Lãnh</b> - 160 Nguyễn Cư Trinh.</p>
+
+            <p><i class="fa-solid fa-location-dot"></i> <b>Chi Nhánh Đồng Nai</b></p>
+            <p><b>Phường Tam Hiệp</b> - 151A Phan Trung.</p>
+
+            <p><i class="fa-solid fa-location-dot"></i> <b>Chi Nhánh Cần Thơ</b></p>
+            <p><b>Phường Ninh Kiều</b> - 52 Mậu Thân.</p>
+
+            <p><i class="fa-solid fa-location-dot"></i> <b>Chi Nhánh Hà Nội</b></p>
+            <p><b>Phường Dương Nội</b> - Tầng 2 TTTM Aeon Mall Hà Đông.</p>
+
+            <p><i class="fa-solid fa-location-dot"></i> <b>Chi Nhánh Hải Phòng</b></p>
+            <p><b>Phường An Biên</b> - Tầng 2 Aeon Mall Hải Phòng Lê Chân, số 10 Võ Nguyên Giáp.</p>
+
+            <p><i class="fa-solid fa-phone"></i> 0933 800 190 - 1900252557</p>
+            <p><i class="fa-solid fa-envelope"></i> csteamdcs@gmail.com</p>
+        </div>
+
+        <!-- Cột phải -->
+        <div class="footer-right">
+            <h2>Mạng Xã Hội</h2>
+            <div class="social-icons">
+                <i class="fa-brands fa-facebook"></i>
+                <i class="fa-brands fa-youtube"></i>
+                <i class="fa-brands fa-instagram"></i>
+            </div>
+
+            <h2>Chính Sách</h2>
+            <ul>
+                <li>Chính sách bảo mật</li>
+                <li>FAQ</li>
+                <li>Chính sách Thẻ Thành viên</li>
+                <li>Chính sách Bảo hành & Đổi trả</li>
+                <li>Chính sách giao hàng hỏa tốc</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        Copyright © 2023 Dirty Coins Studio. Powered by Sapo
+    </div>
+
+
+    <br />
+    <div>Copyright © 2023 Phoniex. Powered by DaiLoi</div>
 </body>
 </html>

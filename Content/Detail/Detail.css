@@ -1,0 +1,231 @@
+﻿body {
+}
+
+.left-side {
+    position: relative;
+    width: 30%;
+    height: 600px;
+    background-color: white;
+}
+
+    .left-side .img {
+        position: absolute;
+        right: 0;
+        top: 0;
+        filter: brightness(95%);
+    }
+
+.thumbnails {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 260px;
+    top: 10px;
+    gap: 10px;
+}
+
+    .thumbnails img {
+        padding: 0.5px;
+        border: 0.5px solid gray;
+    }
+
+.mid-side {
+    width: 50%;
+    height: 100%;
+    background-color: white;
+}
+
+.stars {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+    .stars i {
+        color: #e65c00;
+        font-size: 15px;
+        margin-right: 3px;
+    }
+
+.divider {
+    border: none;
+    border-top: 1px;
+    solid #ddd;
+    margin: 10px 0;
+    background-color: gray;
+    height: 0.5px;
+    width: 80%;
+}
+
+.divider1 {
+    border: none;
+    border-top: 1px solid black;
+    margin: 2px 0;
+    height: 5px;
+    width: 80%;
+}
+
+.price {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.save5 {
+    background: #00ff55;
+}
+
+.product-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+}
+
+
+.size {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    gap: 10px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.size-button {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    width: 100px;
+    height: 50px;
+    border-radius: 12px;
+    color: white;
+    background: black;
+    overflow: hidden;
+    display: flex;
+}
+
+    .size-button::before {
+        content: "";
+        width: 200%;
+        height: 200%;
+        position: absolute;
+        background: conic-gradient( #a33334,#ff9029,#f5f236,#60fcfa,#bc57de);
+        animation: rotatebutton 10s ease infinite;
+    }
+
+    .size-button span {
+        position: relative;
+        z-index: 2;
+        font-size: 22px;
+        letter-spacing: 1px;
+    }
+
+@keyframes rotatebutton {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/*.size-button ::after{
+    content: "";
+    position:absolute;
+    inset:5px;*/
+/*background:black;*/
+/*border-radius:12px;
+    z-index:1;
+}*/
+.button-size {
+    position: relative;
+    z-index: 10;
+    border-radius: 5px;
+    height: 30px;
+    padding: 0 10px;
+    background: #f2f2f2;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+
+
+#body1 {
+    display: flex;
+    width: 100%;
+    align-items: start;
+    justify-content: space-between;
+    gap: 10px;
+    overflow: hidden;
+}
+
+
+.similar-item {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.text-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.right-side {
+    width: 15%;
+    height: 100%;
+    border: 1px solid gray;
+    border-radius: 16px;
+    margin-left: 9px;
+}
+
+.khung {
+    display: flex;
+    width: 100%;
+    align-content: center;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.Add {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    border-radius: 16px;
+    height: 30px;
+    font-weight: bold;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.Buy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    border-radius: 16px;
+    height: 30px;
+    font-weight: bold;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.location1 {
+    display: grid;
+    grid-template-columns: 20px 100px;
+    justify-content: start;
+    gap: 5px;
+}
+
+.title {
+}
+
+.banner2 {
+    width: 5%;
+}

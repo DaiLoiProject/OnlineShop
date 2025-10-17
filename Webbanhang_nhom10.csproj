@@ -120,10 +120,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\BestSellerController.cs" />
-    <Compile Include="Controllers\CollectionsController.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\ShopController.cs" />
+    <Compile Include="Controllers\DetailController.cs" />
     <Compile Include="Controllers\TrangChuController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -147,6 +144,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\Detail\Detail.css" />
     <Content Include="Content\Img\Tshirt\ao-den-01-back.jpg" />
     <Content Include="Content\Img\Tshirt\ao-den-01-font.jpg" />
     <Content Include="Content\Img\Tshirt\ao-trang-01-back.jpg" />
@@ -170,6 +168,12 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Pictures\1.png" />
+    <Content Include="Pictures\2.png" />
+    <Content Include="Pictures\3.png" />
+    <Content Include="Pictures\4.png" />
+    <Content Include="Pictures\5.png" />
+    <Content Include="Pictures\6.png" />
     <Content Include="Pictures\Background.jpg" />
     <Content Include="Pictures\background1.jpg" />
     <Content Include="Pictures\background2.jpg" />
@@ -178,7 +182,11 @@
     <Content Include="Pictures\background5.jpg" />
     <Content Include="Pictures\background6.jpg" />
     <Content Include="Pictures\background7.jpg" />
+    <Content Include="Pictures\black.png" />
+    <Content Include="Pictures\light-blue.png" />
     <Content Include="Pictures\Phoenix.png" />
+    <Content Include="Pictures\red.png" />
+    <Content Include="Pictures\white.png" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -207,17 +215,12 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\Home.cshtml" />
     <Content Include="Views\TrangChu\Index.cshtml" />
-    <Content Include="Views\Shop\Index.cshtml" />
-    <Content Include="Views\Shared\_LayoutShop.cshtml" />
-    <Content Include="Views\Shared\_LayoutBestseller.cshtml" />
-    <Content Include="Views\Bestseller\Index.cshtml" />
-    <Content Include="Views\Shared\_LayoutCollection.cshtml" />
-    <Content Include="Views\Collections\Index.cshtml" />
+    <Content Include="Views\TrangChu\Shop.cshtml" />
+    <Content Include="Views\TrangChu\Bestseller.cshtml" />
+    <Content Include="Views\TrangChu\Collections.cshtml" />
+    <Content Include="Views\Detail\DetailShop.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

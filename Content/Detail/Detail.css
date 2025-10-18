@@ -229,3 +229,8 @@
 .banner2 {
     width: 5%;
 }
+
+
+@media (min-width: 479px) and (max-width: 768) {
+
+}

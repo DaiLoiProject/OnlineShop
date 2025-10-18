@@ -97,35 +97,35 @@ p {
     
 }
 
-    #navbar li {
-        list-style: none;
-        padding: 0 20px;
-        position: relative;
-    }
+#navbar li {
+    list-style: none;
+    padding: 0 20px;
+    position: relative;
+}
 
-        #navbar li a {
-            text-decoration: none;
-            font-size: 16px;
-            font-weight: 2  00;
-            color: black;
-            transition: 0.03s ease;
-        }
+#navbar li a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 2  00;
+    color: black;
+    transition: 0.03s ease;
+}
 
-            #navbar li a:hover,
-            #navbar li a.active {
-                color: #963424;
-            }
+#navbar li a:hover,
+#navbar li a.active {
+    color: #963424;
+}
 
-                #navbar li a.active::after,
-                #navbar li a:hover ::after {
-                    content: "";
-                    width: 30%;
-                    height: 2px;
-                    background-color: #963424;
-                    position: absolute;
-                    bottom: -4px;
-                    left: 20px;
-                }
+#navbar li a.active::after,
+#navbar li a:hover ::after {
+    content: "";
+    width: 30%;
+    height: 2px;
+    background-color: #963424;
+    position: absolute;
+    bottom: -4px;
+    left: 20px;
+}
 
 /* Home page*/
 #home_page {
@@ -250,13 +250,14 @@ p {
 
     #product1 .pro {
         width: 23%;
-        min-width: 250px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
         /* min-width là giới hạn nhỏ nhất pro có thể co lại */
-        height:400px;
+        height: 400px;
         padding: 10px 12px;
         /* padding: vertical horizontal */
-/*        border: 1px solid rgb(167, 177, 168);       */
-        border-radius:  10px;
+        /*        border: 1px solid rgb(167, 177, 168);       */
+        border-radius: 10px;
         cursor: pointer;
         box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
         margin: 15px 0;
@@ -349,6 +350,58 @@ p {
         /* cho phép các phần tử con tự động xuống dòng nếu không đủ không gian để nằm trên một hàng */
     }
 
-    
+
+/*    //responsive*/
+@media (max-width: 478px) {
+    #hero{
+        display:none;
+    }
+    #sidebar{
+        display:none;
+    }
+
+    .pro-container  {
+        display: flex;
+        flex-direction: column;
+    }
+    .header-right{
+        display:none;
+    }
+}
+
+@media (min-width: 479px) and (max-width: 768) {
+    #sidebar {
+        display: none;
+    }
+
+    .pro-container {
+        display: flex;
+        flex-direction: column;
+        
+    }
+}
+@media (min-width: 769) and (max-width: 976) {
+
+        #sidebar {
+            display: none;
+        }
+
+        .pro-container {
+            display: flex;
+            flex-direction: column;
+        }
+    }
+
+@media (min-width: 977) and (max-width: 1200) {
+        #sidebar {
+            display: none;
+        }
+
+        .pro-container {
+            display: flex;
+            flex-direction: column;
+        }
+    }
+
 
    

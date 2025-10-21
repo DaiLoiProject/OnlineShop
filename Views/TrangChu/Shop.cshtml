@@ -5,6 +5,9 @@
 }
 <link href="~/Content/page.style/Shop-StyleSheet.css" rel="stylesheet" />
 
+<section id="banner">
+</section>
+
 <section id="hero">
     <h1>Products</h1>
     <p>Home / Products</p>
@@ -103,14 +106,15 @@
         </div>
     </section>
 </div>
-
-<!--Pagination-->
 <section id="pagination" class="section-p1">
-    <a href="#">1</a>
-    <a href="#">2</a>
-    <a href="#">3</a>
-    <a href="#"><i class="fa-solid fa-greater-than"></i></a>
-</section>
+    <hr id="line" />
+    <div class="pages">
 
+        <a href="@Url.Action("Index", "Shop")">1</a>
+        <a href="#">2</a>
+        <a href="#">3</a>
+        <a href="#"><i class="fa-solid fa-greater-than"></i></a>
+    </div>
+</section>
 <script src="~/Scripts/Shop.js/Shop.js"></script>
 

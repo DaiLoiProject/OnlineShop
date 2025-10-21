@@ -145,6 +145,7 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\Detail\Detail.css" />
+    <Content Include="Content\Img\Banner\shop-banner-1.png" />
     <Content Include="Content\Img\Tshirt\ao-den-01-back.jpg" />
     <Content Include="Content\Img\Tshirt\ao-den-01-font.jpg" />
     <Content Include="Content\Img\Tshirt\ao-trang-01-back.jpg" />

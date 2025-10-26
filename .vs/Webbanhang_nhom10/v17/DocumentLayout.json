@@ -3,35 +3,51 @@
   "WorkspaceRootPath": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\onlineshop\\onlineshop\\views\\shared\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\OnlineShop\\OnlineShop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\OnlineShop\\OnlineShop\\views\\shared\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\onlineshop\\onlineshop\\content\\page.style\\home-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\OnlineShop\\OnlineShop\\content\\page.style\\home-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\home-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\onlineshop\\onlineshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\OnlineShop\\OnlineShop\\controllers\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:controllers\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\OnlineShop\\OnlineShop\\views\\trangchu\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\trangchu\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\OnlineShop\\OnlineShop\\views\\trangchu\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\trangchu\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\onlineshop\\onlineshop\\content\\page.style\\login-register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\login-register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\onlineshop\\onlineshop\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\onlineshop\\onlineshop\\views\\trangchu\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\OnlineShop\\OnlineShop\\views\\trangchu\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\trangchu\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\onlineshop\\onlineshop\\content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\OnlineShop\\OnlineShop\\content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\shop-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\onlineshop\\onlineshop\\content\\page.style\\collection-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\OnlineShop\\OnlineShop\\content\\page.style\\collection-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:content\\page.style\\collection-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|d:\\huflit_web\\onlineshop\\onlineshop\\views\\detail\\detailshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|D:\\Huflit_web\\OnlineShop\\OnlineShop\\views\\detail\\detailshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBBBD31A-89D2-4CAF-A80B-ACCF604AD318}|Webbanhang_nhom10.csproj|solutionrelative:views\\detail\\detailshop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -42,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,33 +74,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Login-Register.css",
+              "DocumentMoniker": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Content\\page.style\\Login-Register.css",
+              "RelativeDocumentMoniker": "Content\\page.style\\Login-Register.css",
+              "ToolTip": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Content\\page.style\\Login-Register.css",
+              "RelativeToolTip": "Content\\page.style\\Login-Register.css",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-25T11:44:30.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Views\\TrangChu\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\TrangChu\\Register.cshtml",
+              "ToolTip": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Views\\TrangChu\\Register.cshtml",
+              "RelativeToolTip": "Views\\TrangChu\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T11:14:04.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Views\\TrangChu\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\TrangChu\\Login.cshtml",
+              "ToolTip": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Views\\TrangChu\\Login.cshtml",
+              "RelativeToolTip": "Views\\TrangChu\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T11:13:11.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrangChuController.cs",
+              "DocumentMoniker": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Controllers\\TrangChuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrangChuController.cs",
+              "ToolTip": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Controllers\\TrangChuController.cs",
+              "RelativeToolTip": "Controllers\\TrangChuController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T11:06:54.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "home-StyleSheet.css",
               "DocumentMoniker": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Content\\page.style\\home-StyleSheet.css",
               "RelativeDocumentMoniker": "Content\\page.style\\home-StyleSheet.css",
               "ToolTip": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Content\\page.style\\home-StyleSheet.css",
               "RelativeToolTip": "Content\\page.style\\home-StyleSheet.css",
-              "ViewState": "AgIAAF8BAAAAAAAAAAAQwHEBAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-10-20T11:58:29.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Home.cshtml",
               "DocumentMoniker": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Views\\Shared\\Home.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Home.cshtml",
               "ToolTip": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Views\\Shared\\Home.cshtml",
               "RelativeToolTip": "Views\\Shared\\Home.cshtml",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAQwJYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwFkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-20T11:54:55.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -97,20 +165,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Views\\TrangChu\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\TrangChu\\Index.cshtml",
               "ToolTip": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Views\\TrangChu\\Index.cshtml",
               "RelativeToolTip": "Views\\TrangChu\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-20T11:54:46.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "DetailShop.cshtml",
               "DocumentMoniker": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Views\\Detail\\DetailShop.cshtml",
               "RelativeDocumentMoniker": "Views\\Detail\\DetailShop.cshtml",
@@ -118,12 +186,11 @@
               "RelativeToolTip": "Views\\Detail\\DetailShop.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T11:50:34.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T11:50:34.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Collection-Stylesheet.css",
               "DocumentMoniker": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Content\\page.style\\Collection-Stylesheet.css",
               "RelativeDocumentMoniker": "Content\\page.style\\Collection-Stylesheet.css",
@@ -131,31 +198,30 @@
               "RelativeToolTip": "Content\\page.style\\Collection-Stylesheet.css",
               "ViewState": "AgIAAOYAAAAAAAAAAAAqwEcBAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-20T11:29:29.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T11:29:29.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Shop-StyleSheet.css",
               "DocumentMoniker": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Content\\page.style\\Shop-StyleSheet.css",
               "RelativeDocumentMoniker": "Content\\page.style\\Shop-StyleSheet.css",
               "ToolTip": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Content\\page.style\\Shop-StyleSheet.css",
               "RelativeToolTip": "Content\\page.style\\Shop-StyleSheet.css",
-              "ViewState": "AgIAAE0BAAAAAAAAAAAqwIsBAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-10-20T11:29:18.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Shop.cshtml",
               "DocumentMoniker": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Views\\TrangChu\\Shop.cshtml",
               "RelativeDocumentMoniker": "Views\\TrangChu\\Shop.cshtml",
               "ToolTip": "D:\\Huflit_web\\OnlineShop\\OnlineShop\\Views\\TrangChu\\Shop.cshtml",
               "RelativeToolTip": "Views\\TrangChu\\Shop.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAHUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-20T11:29:11.697Z",
               "EditorCaption": ""

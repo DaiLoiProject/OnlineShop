@@ -31,9 +31,29 @@
                 </a>
             </div>
 
-            <!-- Right: function icons -->
-            <div class="header-right">
+                @*code cũ *@
 
+            <!-- Right: function icons -->
+            <!--<div class="header-right">-->
+            <!-- search box -->
+            <!--<div class="search-box">
+            <input class="search-box-input" type="text" placeholder="Search..." />
+            <button class="search-box-btn">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </button>
+        </div>
+
+        <a href="/TrangChu/Login"><i class="fas fa-user"></i></a>
+        <a href="card.html"><i class="fa-solid fa-bag-shopping"></i></a>
+    </div>-->
+
+                        @*GPT code *@
+
+            @{
+                var user = Session["User"] as string;
+            }
+
+            <div class="header-right">
                 <!-- search box -->
                 <div class="search-box">
                     <input class="search-box-input" type="text" placeholder="Search..." />
@@ -41,10 +61,57 @@
                         <i class="fa-solid fa-magnifying-glass"></i>
                     </button>
                 </div>
-                @*<a href="#"><i class="fas fa-search"></i></a>*@
-                <a href="#"><i class="fas fa-user"></i></a>
+
+                @if (user == null)
+                {
+                    <!-- Nếu chưa đăng nhập -->
+                    <a href="/TrangChu/Login" title="Đăng nhập">
+                        <i class="fas fa-user"></i>
+                    </a>
+                }
+                else
+                {
+                    <!-- Nếu đã đăng nhập -->
+                    <div class="user-menu" style="display:inline-block; position:relative;">
+                        <a href="javascript:void(0)" title="Tài khoản">
+                            <i class="fas fa-user-circle"></i>
+                        </a>
+                        <div class="user-dropdown" style="
+                display:none;
+                position:absolute;
+                right:0;
+                top:35px;
+                background:white;
+                border:1px solid #ddd;
+                border-radius:8px;
+                box-shadow:0 4px 10px rgba(0,0,0,0.1);
+                padding:10px;
+                min-width:150px;
+                z-index:1000;">
+                            <p style="margin:0 0 10px 0;">Xin chào, <strong>@user</strong></p>
+                            <a href="/TrangChu/Logout" style="color:#963424;text-decoration:none;">Đăng xuất</a>
+                        </div>
+                    </div>
+
+                    <script>
+                        document.addEventListener('DOMContentLoaded', function () {
+                            const userMenu = document.querySelector('.user-menu');
+                            if (userMenu) {
+                                userMenu.addEventListener('click', function () {
+                                    const dropdown = userMenu.querySelector('.user-dropdown');
+                                    dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+                                });
+                            }
+                        });
+                    </script>
+                }
+
+                <!-- Giỏ hàng -->
                 <a href="card.html"><i class="fa-solid fa-bag-shopping"></i></a>
             </div>
+
+
+
         </div>
 
 

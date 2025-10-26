@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/Home.cshtml";
+}
+<link href="~/Content/page.style/Login-Register.css" rel="stylesheet" />
+
+<div class="auth-container">
+    <h2>Tạo tài khoản mới</h2>
+
+    <form method="post" action="/TrangChu/Register">
+        <label>Tên đăng nhập</label>
+        <input type="text" name="username" placeholder="Nhập tên đăng nhập" required />
+
+        <label>Email</label>
+        <input type="email" name="email" placeholder="Nhập email của bạn" required />
+
+        <label>Mật khẩu</label>
+        <input type="password" name="password" placeholder="Nhập mật khẩu" required />
+
+        <button type="submit">Đăng ký</button>
+    </form>
+
+    <p>Đã có tài khoản? <a href="/TrangChu/Login">Đăng nhập ngay</a></p>
+</div>
+

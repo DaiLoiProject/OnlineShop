@@ -165,6 +165,7 @@
     <Content Include="Content\page.style\bestseller-stylesheet.css" />
     <Content Include="Content\page.style\Collection-Stylesheet.css" />
     <Content Include="Content\page.style\home-StyleSheet.css" />
+    <Content Include="Content\page.style\Login-Register.css" />
     <Content Include="Content\page.style\Shop-StyleSheet.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
@@ -225,6 +226,8 @@
     <Content Include="Views\TrangChu\Bestseller.cshtml" />
     <Content Include="Views\TrangChu\Collections.cshtml" />
     <Content Include="Views\Detail\DetailShop.cshtml" />
+    <Content Include="Views\TrangChu\Login.cshtml" />
+    <Content Include="Views\TrangChu\Register.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

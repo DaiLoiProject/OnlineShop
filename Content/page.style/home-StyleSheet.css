@@ -84,6 +84,12 @@ p {
     position: absolute;
     right: 80px; /* Đổi 20px thành 80px để gần logo hơn */
 }
+.header-left,
+.header-right {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
 
 /*.header-left,
 .header-right {
@@ -92,17 +98,18 @@ p {
     align-items: center;
     justify-content: center;
 }*/
+
 .header-logo {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
 }
 
-    .header-logo img {
-        display: block;
-        max-width: 100px;
-        height: auto;
-    }
+.header-logo img {
+    display: block;
+    max-width: 100px;
+    height: auto;
+}
 
 /* Navbar */
 .navbar-wrapper {
@@ -131,7 +138,10 @@ p {
     transition: 0.3s ease;
 }
 
-#navbar li a:hover,
+
+/*khóa underline hover */
+
+/*#navbar li a:hover,
 #navbar li a.active {
     color: #963424;
 }
@@ -145,7 +155,10 @@ p {
         position: absolute;
         bottom: -4px;
         left: 20px;
-    }}
+    }}*/
+
+
+
 /*===========================================================*/
 
     /* === Dropdown === */
